@@ -32,6 +32,12 @@ The following data sources were used to gather information for the analysis:
 The data represents a comprehensive collection of information on films, including their financial performance, ratings, genres, and other attributes. The sample includes a diverse range of films across different genres, time periods, and budgets.
 
 ### Data Cleaning and Preparation
+## Tools and Libraries
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scipy`
 1. **Handling Missing Values**: Missing values are identified and filled using appropriate statistics (e.g., mean, mode, median), or rows with missing data are removed.
 2. **Removing Duplicates**: Duplicated rows are identified and removed to ensure data integrity.
 3. **Renaming Columns**: Columns are renamed to improve clarity and consistency in the dataset.
@@ -46,19 +52,9 @@ The data represents a comprehensive collection of information on films, includin
 ![image](https://github.com/user-attachments/assets/0e20666f-436f-4af5-b4f2-3678a6da3314)
 ![image](https://github.com/user-attachments/assets/ac74f426-e5f2-40f9-a90b-503fb6df4632)
 
-
-
-
-
 ### Correlation Analysis
 - **Relationship Between Rating and Revenue**: A Pearson correlation analysis is conducted to examine the relationship between average movie ratings and worldwide gross revenue.
 
-### Visualizations
-The notebook includes various visualizations such as:
-- **Time Series Plots**: To show trends in revenue and popularity over time.
-- **Heatmaps**: For geographic distribution of audience demographics.
-- **Bar and Pie Charts**: For comparisons across genres, studios, and revenue distribution channels.
-- **Scatter Plots**: For examining relationships like ratings vs. box office performance.
 
 ## Key Findings
 - A positive correlation was found between movie ratings and box office performance, indicating that higher-rated movies tend to perform better.
@@ -73,6 +69,3 @@ To run the notebook, the following packages are required:
 - `seaborn`
 - `scipy`
 
-Install these packages using pip:
-```bash
-pip install pandas numpy matplotlib seaborn scipy
