@@ -1,4 +1,11 @@
- # Film Industry Analysis
+ # Exploratory Data Analysis for New Movie Studio Insights
+## Authors:
+1. Stephen Otieno
+2. Immaculate Kithei
+3. Augustine Komen
+4. Godwin Mutuma
+5. Sharleen Liz
+6. Dennis Muuo
 
 ## Overview
 This repository contains a Jupyter Notebook (`film_industry.ipynb`) that provides an analysis of various aspects of the film industry, including trends in movie ratings, box office revenue, and other key factors. The goal of this analysis is to uncover insights into what drives success in the film industry.
