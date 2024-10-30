@@ -1,3 +1,5 @@
+![Description of Image](https://github.com/bEEkEEper254/Dsc_phase2_group6_project/blob/main/Film2.webp)
+https://github.com/bEEkEEper254/Dsc_phase2_group6_project/blob/main/Film2.webp
  # Exploratory Data Analysis for New Movie Studio Insights
 ## Authors:
 1. Stephen Otieno
@@ -10,7 +12,23 @@
 ## Overview
 This repository contains a Jupyter Notebook (`film_industry.ipynb`) that provides an analysis of various aspects of the film industry, including trends in movie ratings, box office revenue, and other key factors. The goal of this analysis is to uncover insights into what drives success in the film industry.
 
-## Contents of the Notebook
+## Business Understanding
+# Film Industry Analysis for New Movie Studio
+
+## Project Overview
+The company has decided to launch a new movie studio but currently lacks experience in the film industry. As data analysts, our task is to explore the film industry landscape and identify the characteristics of top-performing films at the box office. By analyzing these trends, we aim to provide the studio with actionable insights to guide their film production strategy.
+
+## Business Understanding
+To help the studio make informed decisions, we will address the following key business questions:
+
+1. **What genres are most successful at the box office?**
+2. **How does the average rating correlate with box office success?**
+3. **Which seasons do movie releases perform best?**
+4. **What is the relationship between production budget and worldwide gross?**
+5. **Which are the top-rated genres?**
+
+Our analysis will provide the studio with a clear understanding of these factors, supporting a data-driven approach to film production and strategic planning.
+
 
 ### Data Cleaning and Preparation
 1. **Handling Missing Values**: Missing values are identified and filled using appropriate statistics (e.g., mean, mode, median), or rows with missing data are removed.
