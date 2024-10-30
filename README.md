@@ -53,12 +53,28 @@ The data represents a comprehensive collection of information on films, includin
 ![image](https://github.com/user-attachments/assets/ac74f426-e5f2-40f9-a90b-503fb6df4632)
 
 ### Correlation Analysis
-- **Relationship Between Rating and Revenue**: A Pearson correlation analysis is conducted to examine the relationship between average movie ratings and worldwide gross revenue.
+- **Relationship Between Rating and Revenue**:
+- A Pearson correlation analysis is conducted to examine the relationship between average movie ratings and worldwide gross revenue.
+## Analysis Summary
+Our analysis process included:
 
+**1.Data Cleaning and Preprocessing:** Cleaning and merging datasets to ensure consistency across data sources.
 
-## Key Findings
-- A positive correlation was found between movie ratings and box office performance, indicating that higher-rated movies tend to perform better.
-- Streaming platforms have had a notable impact on theater attendance, especially for certain genres.
-- Specific genres, such as action and family movies, show seasonal trends in release and revenue.
+**2.Exploratory Data Analysis (EDA):** Examining various film attributes, such as genres, ratings, and box office performance.
+
+**3.Visualization and Insights:** Creating visualizations to highlight key findings and trends in successful films, which we translated into actionable recommendations.
+
+### Key Findings
+
+Our analysis revealed several characteristics of films that tend to perform well at the box office:
+
+**1.Top Earning Genres:** Drama is the highest-grossing genre, followed by Comedy and genre combinations like Comedy|Drama. These genres have proven to be both popular and lucrative in the film industry.
+
+**2.Ratings and Revenue:** There is a positive correlation between a film’s average rating and its worldwide gross. Higher-rated movies tend to earn more globally.
+
+**3.Seasonal Trends:** Summer emerges as the most profitable season for movie releases, followed by Spring. Fall and Winter seasons show significantly lower average gross revenue.
+
+**4.Budget Impact:** Movies with higher production budgets tend to have higher worldwide gross revenues.
+
 
 
