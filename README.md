@@ -38,14 +38,17 @@ The data represents a comprehensive collection of information on films, includin
 4. **Converting to Date-Time Format**: Relevant columns are converted to date-time format for time-based analysis.
 5. **Adjusting Data Types**: Columns are converted to appropriate data types (e.g., integers, floats, categories).
 6. **Merging Datasets**: Relevant datasets are merged based on common keys to create a unified dataset for analysis.
+### Data Visualization
+![image](https://github.com/user-attachments/assets/70a7cbc1-5f04-441e-9490-7c3d3d8f1463)
+![image](https://github.com/user-attachments/assets/b48c1a71-3d96-47e1-9a28-f5c1b31eea96)
+![image](https://github.com/user-attachments/assets/c094a79a-757d-4e98-a8fc-745073fecf47)
+![image](https://github.com/user-attachments/assets/ae9d3585-43c6-4fec-ac32-bcb1208aac60)
+![image](https://github.com/user-attachments/assets/0e20666f-436f-4af5-b4f2-3678a6da3314)
+![image](https://github.com/user-attachments/assets/ac74f426-e5f2-40f9-a90b-503fb6df4632)
 
-### Exploratory Data Analysis
-- **Box Office Revenue Analysis**: Examines total revenue by year, revenue by genre, and top-grossing movies.
-- **Audience Demographics**: Analyzes the age, gender, and geographic distribution of the cinema audience, as well as spending habits.
-- **Genre Popularity**: Tracks genre trends over time, identifying which types of movies have gained or lost popularity.
-- **Streaming vs. Box Office**: Compares traditional box office revenue with streaming revenue and assesses the impact of streaming on theater attendance.
-- **Social Media Sentiment**: Analyzes social media sentiment around major releases to gauge audience reaction and interest.
-- **Viewer Ratings**: Explores average movie ratings by genre and their correlation with box office performance.
+
+
+
 
 ### Correlation Analysis
 - **Relationship Between Rating and Revenue**: A Pearson correlation analysis is conducted to examine the relationship between average movie ratings and worldwide gross revenue.
