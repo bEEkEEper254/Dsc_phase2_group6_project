@@ -38,12 +38,12 @@ The data represents a comprehensive collection of information on films, includin
 - `matplotlib`
 - `seaborn`
 - `scipy`
-1. **Handling Missing Values**: Missing values are identified and filled using appropriate statistics (e.g., mean, mode, median), or rows with missing data are removed.
-2. **Removing Duplicates**: Duplicated rows are identified and removed to ensure data integrity.
-3. **Renaming Columns**: Columns are renamed to improve clarity and consistency in the dataset.
-4. **Converting to Date-Time Format**: Relevant columns are converted to date-time format for time-based analysis.
-5. **Adjusting Data Types**: Columns are converted to appropriate data types (e.g., integers, floats, categories).
-6. **Merging Datasets**: Relevant datasets are merged based on common keys to create a unified dataset for analysis.
+1. **Handling Missing Values**: Missing values were identified and filled using appropriate statistics (e.g., mean, mode, median), or rows with missing data are removed.
+2. **Removing Duplicates**: Duplicated rows were identified and removed to ensure data integrity.
+3. **Renaming Columns**: Columns were renamed to improve clarity and consistency in the dataset.
+4. **Converting to Date-Time Format**: Relevant columns were converted to date-time format for time-based analysis.
+5. **Adjusting Data Types**: Columns were converted to appropriate data types (e.g., integers, floats).
+6. **Merging Datasets**: Relevant datasets were merged based on common keys to create a unified dataset for analysis.
 ### Data Visualization
 ![image](https://github.com/user-attachments/assets/70a7cbc1-5f04-441e-9490-7c3d3d8f1463)
 ![image](https://github.com/user-attachments/assets/b48c1a71-3d96-47e1-9a28-f5c1b31eea96)
