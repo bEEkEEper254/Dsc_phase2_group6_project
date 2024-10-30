@@ -75,6 +75,32 @@ Our analysis revealed several characteristics of films that tend to perform well
 **3.Seasonal Trends:** Summer emerges as the most profitable season for movie releases, followed by Spring. Fall and Winter seasons show significantly lower average gross revenue.
 
 **4.Budget Impact:** Movies with higher production budgets tend to have higher worldwide gross revenues.
+## Recommendations
+Based on our findings, we suggest the following strategies for the studio:
+
+**1.Focus on Producing Highly Profitable Genres**
+
+Invest in producing Drama, Comedy, and Comedy|Drama. These genres have proven to be the most poplar and lucrative in the film industry worldwide
+By targeting these genres, the studio can maximize profitability and achieve a higher returns.
+
+**2.Invest in High-Quality Films:**
+
+The scatter plot showing a positive correlation between average ratings and worldwide gross revenues suggests that higher-rated films tend to perform better financially. This means that your studio should prioritize producing high-quality content that can achieve higher average ratings. Quality scripts, talented directors, and experienced actors should be the focus.
+
+**3.Leverage Seasonal and Monthly Release Trends:**
+
+**Release Films During Summer** - The data shows that movies released in the summer perform the best, with an average worldwide gross of 113M dollars. This season sees a higher audience turnout, leading to better box office performance.
+
+**Avoid Fall Releases** - Films released in the fall tend to perform the worst, with an average worldwide gross of 75M dollars. Planning releases outside of this season can help in maximizing box office returns.
+
+**4.Invest in High Production Budgets:**
+
+The scatter plot showing a positive correlation between production budget and worldwide gross means that movies with higher production budgets tend to generate higher box office revenues. Allocate substantial budgets to your movie projects to increase the likelihood of financial success.
+
+## Overall Conclusion:
+Based on our analysis, it's clear that to achieve box office success, your new movie studio should focus on producing high-quality films in the Drama, Comedy, and Comedy|Drama genres, which are currently the top earners. Additionally, there is a positive correlation between higher average ratings and increased worldwide gross revenues, emphasizing the importance of investing in quality scripts, talented directors, and experienced actors.
+
+To capitalize on market trends, prioritize releasing films during the lucrative Summer season while avoiding Fall releases due to their lower average gross revenue. Furthermore, allocating substantial production budgets is crucial, as higher-budget films tend to generate higher box office revenues. By implementing these strategies, your studio can maximize profitability and achieve significant returns in the competitive film industry.
 
 
 
