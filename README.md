@@ -61,11 +61,4 @@ The data represents a comprehensive collection of information on films, includin
 - Streaming platforms have had a notable impact on theater attendance, especially for certain genres.
 - Specific genres, such as action and family movies, show seasonal trends in release and revenue.
 
-## Requirements
-To run the notebook, the following packages are required:
-- `pandas`
-- `numpy`
-- `matplotlib`
-- `seaborn`
-- `scipy`
 
