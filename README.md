@@ -9,7 +9,7 @@
 6. Dennis Muuo
 
 ## Project Overview
-The company has decided to launch a new movie studio but currently lacks experience in the film industry. As data analysts, our task is to explore the film industry landscape and identify the characteristics of top-performing films at the box office. By analyzing these trends, we aim to provide the studio with actionable insights to guide their film production strategy.
+The company has decided to launch a new movie studio but currently lacks experience in the film industry. As data analysts, our task is to explore the film industry landscape and identify the characteristics of top-performing films at the box office. By analyzing these trends, we aim to provide the studio with actionable insights to guide their film production strategy.Attached is the link to the project members and their roles:https://www.notion.so/Members-12eee938b1628093a8f4e9b71735da9a?pvs=4
 
 ## Business Understanding
 To help the studio make informed decisions, we will address the following key business questions:
@@ -38,6 +38,7 @@ The data represents a comprehensive collection of information on films, includin
 - `matplotlib`
 - `seaborn`
 - `scipy`
+- `Jupyter Notebook`
 1. **Handling Missing Values**: Missing values were identified and filled using appropriate statistics (e.g., mean, mode, median), or rows with missing data are removed.
 2. **Removing Duplicates**: Duplicated rows were identified and removed to ensure data integrity.
 3. **Renaming Columns**: Columns were renamed to improve clarity and consistency in the dataset.
